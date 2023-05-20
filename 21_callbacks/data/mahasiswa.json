@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "Rizqi Nur Assyaufi",
+    "nrp": "1501147",
+    "email": "rizqinur@students.universitasmulia.ac.id",
+    "jurusan": "Teknik Informatika",
+    "idDosenWali": 1
+  },
+  {
+    "nama": "Muhammad Fajar Setiawan",
+    "nrp": "1501153",
+    "email": "mfajar@students.universitasmulia.ac.id",
+    "jurusan": "Teknik Informatika",
+    "idDosenWali": 2
+  },
+  {
+    "nama": "Rachmat Saudi Al Fathir AS",
+    "nrp": "1501032",
+    "email": "fathir@students.universitasmulia.ac.id",
+    "jurusan": "Teknik Informatika",
+    "idDosenWali": 2
+  }
+]
